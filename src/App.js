@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+            <h2>Soy Victoria Sampalo, y modifico con esto el proyecto de Elisabet</h2>
       </header>
     </div>
   );
